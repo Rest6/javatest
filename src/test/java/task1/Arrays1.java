@@ -11,6 +11,7 @@ public class Arrays1 {
         int c = a + b;
 	int d = c + a;	
          int e = c + a;	
+//test
         System.out.println(c);
     }
 }
