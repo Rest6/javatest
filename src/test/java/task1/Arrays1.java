@@ -12,7 +12,7 @@ public class Arrays1 {
 	int d = c + a;	
          int e = c + a;	
 	String str = "Finaly I set up Jenkins";
-	String str = "Java";
+
 
         System.out.println(c);
     }
